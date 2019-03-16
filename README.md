@@ -1,3 +1,7 @@
+## Cuchito's Grooming
+
+this website was created for a local pet groomer using React and Bulma framework.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
